@@ -33,4 +33,4 @@ Este projeto tem como objetivo consolidar meus conhecimentos em HTML e CSS, cria
 
 ## Como Visualizar o Projeto
 
-Você pode acessar o portfólio através do seguinte link: 
+Você pode acessar o portfólio através do seguinte link: https://portfolio-gamma-roan-93.vercel.app/
